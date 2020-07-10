@@ -3,8 +3,9 @@ layout: default
 title: About
 ---
 # EcksClone
-Xcode style theme for Visual Studio Code
-Collaboration between myself and [Nevexo](https://github.com/Nevexo)
+Xcode style theme for Visual Studio Code<br>
+Collaboration between myself and [Nevexo](https://github.com/Nevexo)<br>
+Find it on [Github](https://github.com/Nevexo/ecksClone)
 <div id="demo" class="carousel slide" data-ride="carousel">
 
   <!-- Indicators -->

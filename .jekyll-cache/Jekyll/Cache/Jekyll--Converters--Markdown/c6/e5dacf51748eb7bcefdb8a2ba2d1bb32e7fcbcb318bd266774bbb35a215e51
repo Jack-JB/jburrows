@@ -1,5 +1,5 @@
-I"•<h1 id="ecksclone">EcksClone</h1>
-<p>Xcode style theme for Visual Studio Code
+I"<h1 id="ecksclone-github">EcksClone <a href="https://github.com/Nevexo/ecksClone">Github</a></h1>
+<p>Xcode style theme for Visual Studio Code<br />
 Collaboration between myself and <a href="https://github.com/Nevexo">Nevexo</a></p>
 <div id="demo" class="carousel slide" data-ride="carousel">
 
@@ -12,10 +12,10 @@ Collaboration between myself and <a href="https://github.com/Nevexo">Nevexo</a><
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://raw.githubusercontent.com/Nevexo/ecksclone/master/screenshots/ecksCloneDark.png" alt="Los Angeles" width="1100" height="500" />
+      <img class="img-fluid" src="https://raw.githubusercontent.com/Nevexo/ecksclone/devel/screenshots/ecksClonePastelDark.png" alt="EcksCloneDark" />
     </div>
     <div class="carousel-item">
-      <img src="https://raw.githubusercontent.com/Nevexo/ecksclone/devel/screenshots/ecksClonePastelLight.png" alt="Chicago" width="1100" height="500" />
+      <img class="img-fluid" src="https://raw.githubusercontent.com/Nevexo/ecksclone/devel/screenshots/ecksClonePastelLight.png" alt="EcksCloneLight" />
     </div>
   </div>
   
@@ -27,4 +27,5 @@ Collaboration between myself and <a href="https://github.com/Nevexo">Nevexo</a><
     <span class="carousel-control-next-icon"></span>
   </a>
 </div>
+<p><a href="https://github.com/Nevexo/ecksClone">Github</a></p>
 :ET
