@@ -8,6 +8,8 @@
     color: #1790d1;
     height: 100%;
     width: 100%;
+    padding-right: 2%;
+    padding-left: 2%;
 }
 a, a:visited {
     color: #7b1cc9;
