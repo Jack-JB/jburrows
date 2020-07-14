@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Index
 ---
 # My personal website.
 [GitHub](https://github.com/Jack-JB/jburrows) <br>

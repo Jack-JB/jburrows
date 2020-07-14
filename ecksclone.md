@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: EcksClone
 ---
 # EcksClone
 Xcode style theme for Visual Studio Code<br>
